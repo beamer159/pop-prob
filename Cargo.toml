@@ -1,0 +1,14 @@
+[package]
+name = "pop-prob"
+version = "0.1.0"
+authors = ["Brian Wirsing"]
+edition = "2018"
+description = "A population probability calculator"
+license = "MIT"
+repository = "https://github.com/beamer159/pop-prob/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num-bigint = "0.3"
+num-traits = "0.2"
